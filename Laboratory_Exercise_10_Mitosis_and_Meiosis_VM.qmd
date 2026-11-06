@@ -131,7 +131,7 @@ During this activity you will work in *pairs.*
 | **Phase**  | **Individual totals** | **Group Total** | **Percent** |
 |:-----------|:----------------------|:----------------|:------------|
 | Interphase | 45677                 |                 |             |
-| Prophase   |                       |                 |             |
+| Prophase   | 8432                  |                 |             |
 | Metaphase  |                       |                 |             |
 | Anaphase   |                       |                 |             |
 | Telophase  |                       |                 |             |
